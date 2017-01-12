@@ -68,7 +68,7 @@ body {
     border-radius: 15px;
 }
 #chessboard-space td:hover {
-    background-color: dodgerblue;
+    background-color: black;
     cursor: pointer;
 }
 .white-chess {
