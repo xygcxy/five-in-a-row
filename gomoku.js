@@ -21,7 +21,7 @@
 * -100: 普通
 */
 function Gomoku() {
-    this.chessboardSize = 14; // 棋盘大小
+    this.chessboardSize = 15; // 棋盘大小
  
     this.chessState = []; // 保存落子情况，二维数组，i表示行，j表示列
     this.gameover = false;
